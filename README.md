@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello, I'm Sungjae Lee
 
-<!--
-**ubless607/ubless607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently a Masters Student at **GSAI, POSTECH**.
 
-Here are some ideas to get you started:
+**Research Interests:** Robotic object manipulation, LLMs, and Medical AI.  
+For my full CV and publications, please visit my **[Portfolio Website](https://ubless607.github.io/aboutme/)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Projects
+
+<table>
+  <tr>
+    <td width="20%" valign="top" align="center">
+      <img src="https://github.com/user-attachments/assets/85dfbd1a-af39-4873-96ed-847126762dc1" width="48%" alt="TAPS Demo">
+    </td>
+    <td width="80%" valign="top">
+      <strong><a href="https://github.com/ubless607/TAPS">TAPS: Tactile-Acoustic Perception for Vision-denied Robot Operation</a></strong>
+      <br>
+      A robotic system designed to identify objects and operate in environments where visual feedback is unreliable or unavailable, utilizing multi-modal sensory data.
+    </td>
+  </tr>
+</table>
